@@ -1,0 +1,30 @@
+[
+    {
+       "id":0,
+       "title":[
+          "Own Profile"
+       ]
+    },{
+      "id":1,
+      "title":[
+         "Starred Messages",
+         "WhatsaApp Web/Desktop"
+      ]
+   },
+   {
+      "id":2,
+      "title":[
+         "Account",
+         "Chats",
+         "Notifications",
+         "Data and Storage Usage"
+      ]
+   },
+   {
+      "id":3,
+      "title":[
+         "Help",
+         "Tell a Friend"
+      ]
+   }
+]
